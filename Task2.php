@@ -11,7 +11,7 @@ website_name()
 
 // or
 
-echo "Name"
+// echo "Name"
 //  without function
 
 ?>
