@@ -8,10 +8,3 @@ function website_name(){
 
 website_name()
 
-
-// or
-
-// echo "Name"
-//  without function
-
-?>
